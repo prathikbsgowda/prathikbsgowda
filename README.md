@@ -81,5 +81,5 @@ Visvesvaraya Technological University, 2019-2023 | CGPA: 8.98
 
 ---
 
-*Hereby declared that all the above information is true and based on my knowledge.*
+
 

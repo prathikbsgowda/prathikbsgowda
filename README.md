@@ -1,5 +1,4 @@
 # Hi there 👋, I'm Prathik B S Gowda
-
 ![Profile Views](https://komarev.com/ghpvc/?username=prathikbsgowda&style=flat-square)
 
 ## 👨‍💻 About Me

@@ -61,6 +61,7 @@ Motivated and professional Data Scientist proficient in Python, Django, Tableau,
 **Bachelor's Degree in Computer Science and Engineering**  
 Visvesvaraya Technological University, 2019-2023 | CGPA: 8.98
 
+
 ## 🏆 Certifications
 
 - **SQL (Advanced)** - HackerRank([link](https://www.hackerrank.com/certificates/b1d702c5d7f3))

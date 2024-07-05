@@ -2,7 +2,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=prathikbsgowda&style=flat-square)
 
 ## 👨‍💻 About Me
-
 Motivated and professional Data Scientist proficient in Python, Django, Tableau, and SQL, with strong expertise in database design and administration. Skilled in data visualization and analysis, I excel at extracting insights from complex datasets. With a solid foundation in data science principles and a knack for problem-solving, I thrive in both independent and collaborative environments. I am currently seeking a challenging role in a data-driven organization to leverage my technical skills and contribute to impactful solutions.
 
 

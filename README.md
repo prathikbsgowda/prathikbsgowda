@@ -52,12 +52,6 @@ Motivated and professional Data Scientist proficient in Python, Django, Tableau,
 - Developed impactful visualizations using Tableau.
 - Enhanced skills in machine learning and Python modules like scikit-learn and TensorFlow.
 
-### Data Science Intern
-**Knowledge Solutions India (Affiliation with Microsoft)** | February 2021 - April 2021
-
-- Developed machine learning models for data analysis and prediction tasks.
-- Collaborated on research projects involving machine learning algorithms.
-
 ## 🎓 Education
 **Bachelor's Degree in Computer Science and Engineering**  
 Visvesvaraya Technological University, 2019-2023 | CGPA: 8.98
@@ -72,6 +66,7 @@ Visvesvaraya Technological University, 2019-2023 | CGPA: 8.98
 ## 📚 Publications
 - Elucidating the phosphoregulatory network of predominant phosphosite in AXL kinase: an integrative bioinformatic approach([link](https://link.springer.com/article/10.1007/s42485-024-00147-7))
 - A global phosphosite-correlated network map of Thousand And One Kinase 1 (TAOK1)([link](https://www.sciencedirect.com/science/article/abs/pii/S1357272524000499?via%3Dihub))
+- Elucidating the phosphoregulatory network of predominant phosphosite in AXL kinase: an integrative bioinformatic approach ([link](https://link.springer.com/article/10.1007/s42485-024-00147-7))
 - Crop Maturity Detection and Automatic Sprinkler Irrigation using IoT and Machine Learning([link](http://hbrppublication.com/OJS/index.php/JASET/article/view/3237))
 
 ## 📬 Connect with Me

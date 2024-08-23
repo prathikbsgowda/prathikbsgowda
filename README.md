@@ -46,13 +46,6 @@ Motivated and professional Data Scientist proficient in Python, Django, Tableau,
 - Applied machine learning algorithms and statistical analysis to improve predictive modeling in drug resistance.
 - Created dynamic visualizations with Tableau and Python to facilitate data-driven decision-making.
 
-### Data Science Intern
-**Centre for Integrative Omics Data Science (CIODS)** | February 2023 – August 2023
-
-- Continued development and management of the database.
-- Conducted data analysis, cleaning, and visualization tasks.
-- Developed impactful visualizations using Tableau.
-- Enhanced skills in machine learning and Python modules like scikit-learn and TensorFlow.
 
 ## 🎓 Education
 **Bachelor's Degree in Computer Science and Engineering**  

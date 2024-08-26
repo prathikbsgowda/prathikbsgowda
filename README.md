@@ -1,6 +1,5 @@
 # Hi there 👋, I'm Prathik B S Gowda
 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=prathikbsgowda&style=flat-square)
 
 ## 👨‍💻 About Me
@@ -50,7 +49,6 @@ Motivated and professional Data Scientist proficient in Python, Django, Tableau,
 ## 🎓 Education
 **Bachelor's Degree in Computer Science and Engineering**  
 Visvesvaraya Technological University, 2019-2023 | CGPA: 8.98
-
 
 ## 🏆 Certifications
 

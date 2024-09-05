@@ -10,7 +10,6 @@ Motivated and professional Data Scientist proficient in Python, Django, Tableau,
 - 📍 Shimoga, Karnataka, India
 - 📧 [prathikbsgowda@gmail.com](mailto:prathikbsgowda@gmail.com)
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/prathik-b-s-a80b3521a)
-- 🌐 [Personal Website](#)
 
 ## 🔧 Key Skills
 

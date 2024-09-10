@@ -51,6 +51,7 @@ Motivated and professional Data Scientist proficient in Python, Django, Tableau,
 - **Introduction to Data Science in Python** - University of Michigan (2023)([link](https://www.coursera.org/account/accomplishments/certificate/PJX8UH2ALSLZ))
 - **Tableau Training** - Simplilearn
 
+
 ## 📚 Publications
 - Elucidating the phosphoregulatory network of predominant phosphosite in AXL kinase: an integrative bioinformatic approach([link](https://link.springer.com/article/10.1007/s42485-024-00147-7))
 - A global phosphosite-correlated network map of Thousand And One Kinase 1 (TAOK1)([link](https://www.sciencedirect.com/science/article/abs/pii/S1357272524000499?via%3Dihub))

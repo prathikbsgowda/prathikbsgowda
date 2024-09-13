@@ -10,6 +10,7 @@ Motivated and professional Data Scientist proficient in Python, Django, Tableau,
 - 📍 Shimoga, Karnataka, India
 - 📧 [prathikbsgowda@gmail.com](mailto:prathikbsgowda@gmail.com)
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/prathik-b-s-a80b3521a)
+- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🔧 Key Skills
 
@@ -36,6 +37,7 @@ Motivated and professional Data Scientist proficient in Python, Django, Tableau,
 ## 🚀 Professional Experience
 
 ### Data Scientist
+
 **Centre for Integrative Omics Data Science (CIODS)** | August 2023 – Present
 
 - Spearheaded the continued development and management of the Phospho Proteome Database, enhancing data accuracy and accessibility.

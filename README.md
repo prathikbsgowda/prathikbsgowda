@@ -2,6 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=prathikbsgowda&style=flat-square)
 
+
 ## 👨‍💻 About Me
 Motivated and professional Data Scientist proficient in Python, Django, Tableau, and SQL, with strong expertise in database design and administration. Skilled in data visualization and analysis, I excel at extracting insights from complex datasets. With a solid foundation in data science principles and a knack for problem-solving, I thrive in both independent and collaborative environments. I am currently seeking a challenging role in a data-driven organization to leverage my technical skills and contribute to impactful solutions.
 
@@ -35,7 +36,6 @@ Motivated and professional Data Scientist proficient in Python, Django, Tableau,
 ## 🚀 Professional Experience
 
 ### Data Scientist
-
 **Centre for Integrative Omics Data Science (CIODS)** | August 2023 – Present
 
 - Spearheaded the continued development and management of the Phospho Proteome Database, enhancing data accuracy and accessibility.
@@ -43,7 +43,6 @@ Motivated and professional Data Scientist proficient in Python, Django, Tableau,
 - Contributed innovative solutions to the Drug Resistance Project using advanced data science techniques.
 - Applied machine learning algorithms and statistical analysis to improve predictive modeling in drug resistance.
 - Created dynamic visualizations with Tableau and Python to facilitate data-driven decision-making.
-
 
 ## 🏆 Certifications
 
